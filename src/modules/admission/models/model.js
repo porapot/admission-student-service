@@ -41,7 +41,7 @@ var AdmissionSchema = new Schema({
     classroom:{
         type: String
     },
-    telno:{
+    contacttelno:{
         type: String
     },
 
